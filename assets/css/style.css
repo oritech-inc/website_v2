@@ -1,0 +1,22 @@
+:root {
+    --primary-green: #5e7153;
+    --primary-orange: #c66828;
+    --primary-brown: #783e19;
+    --secondary-green: #a9b489;
+    --secondary-yellow: #f9ecc9;
+    --light: #fafafa;
+    --dark: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+    scroll-behavior: smooth;
+}
+
+body {}
